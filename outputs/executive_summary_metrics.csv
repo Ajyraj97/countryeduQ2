@@ -1,0 +1,15 @@
+Metric,Value
+Baseline churn rate,0.18
+Relative churn reduction target,0.05
+Target churn rate,0.171
+Clients,200
+Transactions,10000000
+Financial missingness,0.12
+Best model,Logistic Regression
+ROC-AUC,0.8957606705439036
+PR-AUC,0.7599641888484417
+Forecast backtest MAPE,1.1521509954626328
+12M base forecast,159486762.53469706
+12M risk-adjusted forecast,80138774.15420736
+Revenue at risk,79347988.38048969
+Top 20 revenue risk,30640403.53943019
