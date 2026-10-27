@@ -52,5 +52,3 @@ Monthly revenue is forecast using Holt-Winters exponential smoothing with additi
 - `sql/analysis.sql`
 - final PDF report
 - final PowerPoint presentation
-
-All records and numerical results are synthetic because the employer did not provide production data.
